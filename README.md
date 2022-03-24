@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi Y'all! &#128075;
 
-<!--
-**francis-bond/francis-bond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **About me**	&#128587;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Francis Bond and I am a Full Stack Web Developer. 
+I recently graduated from the Full Stack Web Development Bootcamp from The University of Texas Austin. 
 
-Here are some ideas to get you started:
+---
+### **Stats**	&#128202;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-bond&show_icons=true&theme=slateorange&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-bond&layout=compact&theme=slateorange)
+
+
+---
+
+### Connect with Me 	&#129309;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/francis-bond-839952164/)
