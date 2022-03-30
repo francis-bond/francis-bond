@@ -4,9 +4,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Francis Bond and I am a Full Stack Web Developer. 
 I recently graduated from the Full Stack Web Development Bootcamp from The University of Texas Austin. 
 
-<br>
 
-#### More about me
+### More about me
 
 - Currently expanding my knowledge of React
 - 	&#128247;  Avid photographer
@@ -25,3 +24,5 @@ I recently graduated from the Full Stack Web Development Bootcamp from The Unive
 ### Connect with Me 	&#129309;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/francis-bond-839952164/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: francisbond1996@gmail.com
